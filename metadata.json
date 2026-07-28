@@ -1,6 +1,0 @@
-{
-  "name": "Salon Real Look",
-  "description": "A luxury barber & salon website with haircut showcases, appointment booking via WhatsApp and Email, and a hidden admin management panel.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
