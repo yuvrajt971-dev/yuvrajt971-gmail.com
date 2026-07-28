@@ -1,0 +1,6 @@
+{
+  "name": "Salon Real Look",
+  "description": "Luxury Barber Salon - Premium Haircuts, Beard Styling & Grooming",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
