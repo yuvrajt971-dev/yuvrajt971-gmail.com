@@ -1,0 +1,6 @@
+{
+  "name": "Salon Real Look",
+  "description": "Premium Luxury Barber Website for Salon Real Look with gold aesthetics, video showcases, masonry gallery, and WhatsApp contact.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
