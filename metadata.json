@@ -1,0 +1,6 @@
+{
+  "name": "Salon Real Look",
+  "description": "World-class luxury barber salon website and content management panel for Salon Real Look.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
