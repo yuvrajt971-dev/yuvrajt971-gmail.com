@@ -1,0 +1,6 @@
+{
+  "name": "Decent Hair & Care",
+  "description": "Luxury Women's Hair Salon & Care in Ahmedabad - Premium Hair Transformations, Colors, Cuts & Spa Services",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
