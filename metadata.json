@@ -1,6 +1,0 @@
-{
-  "name": "La Femme - Luxury Hair, Skin & Bridal Salon",
-  "description": "A premium single-page salon website for La Femme in Ahmedabad featuring hair color showcases, hair styling guides, price menu in INR (₹), scroll animations, and interactive location & prompt features.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
