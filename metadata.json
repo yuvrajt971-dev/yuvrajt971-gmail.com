@@ -1,0 +1,6 @@
+{
+  "name": "STUDIO11 Women's Salon",
+  "description": "Ultra-premium luxury Women's Salon website for STUDIO11 in Ahmedabad with services, price list, gallery, hairstyles, hair colors, reviews, and appointment booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
